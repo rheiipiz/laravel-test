@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: laravel-test
+        psr4_prefix: laravel-test
+        src_path: app
